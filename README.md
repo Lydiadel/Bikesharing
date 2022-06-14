@@ -44,6 +44,6 @@ In conclusion, male are the ones who uses the most the service Bike Sharing, as 
 It could be recommended to see the location where both genders tend to be and another on who use the bike for more time if females or males.
 
 ## Dashboard
-[link to dashboard](https://public.tableau.com/views/NYCstorybikesharing/NYCStory?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
+To access the dashboard click [here](https://public.tableau.com/views/NYCstorybikesharing/NYCStory?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
